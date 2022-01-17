@@ -129,7 +129,7 @@ function App() {
     console.log("Gas limit: ", totalGasLimit);
     setFeedback(`Minting your ${CONFIG.NFT_NAME}...`);
     setClaimingNft(true);
-    TheStripesNFT.methods
+    blockchain.smartContract.methods
       .mint(blockchain.account, mintAmount)
       .send({
         gasLimit: String(totalGasLimit),
