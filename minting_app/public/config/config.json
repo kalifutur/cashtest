@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0010535186c73911826179bf1249144d6AEf8b81",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x0010535186c73911826179bf1249144d6aef8b81",
+  "NETWORK": {
+    "NAME": "Bsc",
+    "SYMBOL": "Bnb",
+    "ID": 97
+  },
+  "NFT_NAME": "CashBall NFTs",
+  "SYMBOL": "BALLNFTs",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
